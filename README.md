@@ -1,6 +1,6 @@
 # Adaptive-Intelligent-Transportation-System
 Adaptive intelligent transportation system
-Hello, I’m Cheng, and today I am going to demo my FPGA project on board DE1-SOC, and my project name is ‘Adaptive intelligent transportation system’. The purpose of the project is dealing with the various road conditions, and aim to reduce traffic jam by adaptive changing the frequency of traffic lights.
+Hello, I’m Cheng, and today I am going to guide my FPGA project on board DE1-SOC, and my project name is ‘Adaptive intelligent transportation system’. The purpose of the project is dealing with the various road conditions, and aim to reduce traffic jam by adaptive changing the frequency of traffic lights.
   
   The system is mainly divided into five parts, respectively are the car following distance measurement, manual control through mode switches, LEDR warning system, automatically adapt controller, and manager system.
   
